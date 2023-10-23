@@ -39,7 +39,7 @@ export default function About() {
               aria-expanded="true"
               aria-controls="collapseOne"
             >
-              Accordion Item #1
+              ABout Us 1
             </button>
           </h2>
           <div
